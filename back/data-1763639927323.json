@@ -1,0 +1,112 @@
+{
+  "thumbmark": "f490ad92dd45a3aeea5bb037665e1fc2",
+  "components": {
+    "audio": {
+      "sampleHash": 1168.9068228197468,
+      "maxChannels": 1,
+      "channelCountMode": "max"
+    },
+    "canvas": {
+      "commonPixelsHash": "99592faf86726fa69469ff29a23a82bb"
+    },
+    "fonts": {
+      "Courier": 432.0703125,
+      "Courier New": 432.0703125,
+      "Noto Sans": 472.03216552734375,
+      "Ubuntu": 458.7841796875
+    },
+    "hardware": {
+      "videocard": {
+        "vendor": "WebKit",
+        "renderer": "WebKit WebGL",
+        "version": "WebGL 1.0 (OpenGL ES 2.0 Chromium)",
+        "shadingLanguageVersion": "WebGL GLSL ES 1.0 (OpenGL ES GLSL ES 1.0 Chromium)"
+      },
+      "architecture": 255,
+      "deviceMemory": "8",
+      "jsHeapSizeLimit": 2248146944
+    },
+    "locales": {
+      "languages": "en-US",
+      "timezone": "Africa/Casablanca"
+    },
+    "math": {
+      "acos": 1.0471975511965979,
+      "asin": -9.614302481290016e-17,
+      "cos": -4.854249971455313e-16,
+      "largeCos": 0.7639704044417283,
+      "largeSin": -0.6452512852657808,
+      "largeTan": -0.8446024630198843,
+      "sin": -1.9461946644816207e-16,
+      "tan": 6.980860926542689e-14
+    },
+    "permissions": {
+      "accelerometer": "granted",
+      "background-sync": "granted",
+      "camera": "prompt",
+      "clipboard-read": "prompt",
+      "clipboard-write": "granted",
+      "display-capture": "prompt",
+      "gyroscope": "granted",
+      "geolocation": "prompt",
+      "local-fonts": "prompt",
+      "magnetometer": "granted",
+      "microphone": "prompt",
+      "midi": "prompt",
+      "notifications": "prompt",
+      "payment-handler": "granted",
+      "persistent-storage": "prompt",
+      "window-management": "prompt"
+    },
+    "plugins": {
+      "plugins": [
+        "PDF Viewer|internal-pdf-viewer|Portable Document Format",
+        "Chrome PDF Viewer|internal-pdf-viewer|Portable Document Format",
+        "Chromium PDF Viewer|internal-pdf-viewer|Portable Document Format",
+        "Microsoft Edge PDF Viewer|internal-pdf-viewer|Portable Document Format",
+        "WebKit built-in PDF|internal-pdf-viewer|Portable Document Format"
+      ]
+    },
+    "screen": {
+      "is_touchscreen": false,
+      "maxTouchPoints": 0,
+      "colorDepth": 24,
+      "mediaMatches": [
+        "prefers-contrast: no-preference",
+        "any-hover: hover",
+        "any-pointer: fine",
+        "pointer: fine",
+        "hover: hover",
+        "update: fast",
+        "prefers-reduced-motion: no-preference",
+        "prefers-reduced-transparency: no-preference",
+        "scripting: enabled",
+        "forced-colors: none"
+      ]
+    },
+    "system": {
+      "platform": "Linux x86_64",
+      "productSub": "20030107",
+      "product": "Gecko",
+      "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.37 Safari/537.36",
+      "hardwareConcurrency": 8,
+      "browser": {
+        "name": "Chrome",
+        "version": "141.0.7390.37"
+      },
+      "mobile": false,
+      "applePayVersion": 0,
+      "cookieEnabled": true
+    },
+    "webgl": {
+      "commonPixelsHash": "72ec1429cf00d77fb4c381d3950fc0b0"
+    }
+  },
+  "info": {
+    "uniqueness": {
+      "score": "api only"
+    }
+  },
+  "version": "1.3.3",
+  "ipAddress": "127.0.0.1"
+}
